@@ -1,0 +1,56 @@
+{
+  "item": {
+    "id": "com.jaychou.lyrics.jcnm",
+    "restype": "quick_app",
+    "name": "周杰伦歌词本",
+    "description": "华语乐坛 25 年的青春,现在就在你的手腕上。\n\n这是什么\n一款适配小米手环 9 / 10 Pro 及 Redmi Watch 5 / 5e / 6 的离线歌词浏览应用。 收录周杰伦 17 张录音室专辑的完整资料与多张经典专辑歌词全文。\n核心功能\n• \n🎵 17 张专辑全覆盖:从《Jay》到《最伟大的作品》,专辑资料、曲目完整收录（惊叹号暂时没有 因为没人听且太冷门了）\n• \n📜 经典歌词全文:多张代表专辑歌词逐字收录,手环上直接看\n• \n🖥️ 专辑封面大图:每张专辑独立封面\n• \n🕐 表盘时钟:首页与详情页实时时间显示\n• \n💳 赞赏支持:喜欢的话,可以请作者喝杯咖啡\n\n适配所有支持的手环表型:小米手环 9 / 10 Pro、Redmi Watch 5e / 5 / 6(小米手环8Pro也可以尝试一下)\n\n结尾\n从 MP3 时代到流媒体时代,周杰伦的歌陪了我们 25 年。 现在,把它戴在手上。\n\n\n开发这个花费了我好久 喜欢的支持一下吧 哪怕1块也行😭😭",
+    "preview": [
+      "media/Shell++_1_1790411627828_20260926163146-47.png",
+      "media/Shell++_2_1790415064585_20260926171603-51.png",
+      "media/Shell++_4_1790415066876_20260926171523-49.png",
+      "media/Shell++_5_1790415069974_20260926171350-48.png",
+      "media/Shell++_3_1790415072292_20260926171543-50.png"
+    ],
+    "icon": "media/fantasy.jpg",
+    "cover": "media/IMG_20260926_204032.jpg",
+    "author": [
+      {
+        "name": "JioC晚月",
+        "bindABAccount": true
+      },
+      {
+        "name": "无源流沙",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "26.9.26.18.56",
+      "file_name": "downloads/周杰伦歌词9.26.18.56.rpk",
+      "versionCode": 2269261856
+    },
+    "xmb9p": {
+      "version": "26.9.26.18.56",
+      "file_name": "downloads/周杰伦歌词9.26.18.56.rpk",
+      "versionCode": 2269261856
+    },
+    "xmrw5": {
+      "version": "26.9.26.18.56",
+      "file_name": "downloads/周杰伦歌词9.26.18.56.rpk",
+      "versionCode": 2269261856
+    },
+    "xmrw5xring": {
+      "version": "26.9.26.18.56",
+      "file_name": "downloads/周杰伦歌词9.26.18.56.rpk",
+      "versionCode": 2269261856
+    },
+    "xmrw6": {
+      "version": "26.9.26.18.56",
+      "file_name": "downloads/周杰伦歌词9.26.18.56.rpk",
+      "versionCode": 2269261856
+    }
+  },
+  "ext": {}
+}
